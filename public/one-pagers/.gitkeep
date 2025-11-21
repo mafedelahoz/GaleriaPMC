@@ -1,0 +1,11 @@
+# Coloca aquí los PDFs de tus one-pagers
+
+Los archivos PDF deben seguir esta estructura:
+- nombre-proyecto.pdf
+
+Ejemplo:
+- ecotrack.pdf
+- studybuddy.pdf
+- foodshare.pdf
+
+Asegúrate de que el nombre del archivo coincida con el que especificaste en `app/data/projects.ts`
