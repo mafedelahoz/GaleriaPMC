@@ -5,12 +5,12 @@ export default function Home() {
   return (
     <main className="min-h-screen bg-gradient-to-br from-gray-50 to-gray-100">
       {/* Header */}
-      <header className="bg-gradient-to-r from-blue-600 to-purple-600 text-white py-16 px-4">
+      <header className="bg-gradient-to-r from-yellow-500 to-red-600 text-white py-16 px-4">
         <div className="max-w-7xl mx-auto">
           <h1 className="text-5xl font-bold mb-4 text-center">
             Galería de Proyectos PMC
           </h1>
-          <p className="text-xl text-center text-blue-100 max-w-3xl mx-auto">
+          <p className="text-xl text-center text-yellow-100 max-w-3xl mx-auto">
             Descubre los innovadores proyectos desarrollados por en la clase "Diseño de Productos e Innovación en TI" 202520.
           </p>
         </div>
