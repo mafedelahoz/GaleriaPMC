@@ -65,8 +65,8 @@ export const projects: Project[] = [
     title: "HabitTracker",
     description: "App para el seguimiento y formación de hábitos saludables",
     team: "HabitTracker Team",
-    onePagerUrl: "/one-pagers/habittracker.pdf",
-    mvpUrl: "https://habittracker-demo.vercel.app",
+    onePagerUrl: "/one-pagers/HabitTracker.pdf",
+    mvpUrl: "https://floral-sling-36598209.figma.site/",
     imageUrl: "https://placehold.co/600x400/06b6d4/white?text=HabitTracker",
     tags: ["Salud Mental", "Bienestar", "Mobile"]
   },
