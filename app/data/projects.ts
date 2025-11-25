@@ -45,8 +45,8 @@ export const projects: Project[] = [
     title: "Agora",
     description: "Plataforma para conectar estudiantes universitarios con diferentes habilidades para proyectos colaborativos",
     team: "Agora Team",
-    onePagerUrl: "/one-pagers/agora.pdf",
-    mvpUrl: "https://agora-demo.vercel.app",
+    onePagerUrl: "/one-pagers/Agora.pdf",
+    mvpUrl: "https://agora-gamma-six.vercel.app/",
     imageUrl: "https://placehold.co/600x400/ef4444/white?text=Agora",
     tags: ["Colaboración", "Estudiantes", "Habilidades"]
   },
@@ -55,7 +55,7 @@ export const projects: Project[] = [
     title: "ZenMind",
     description: "Aplicación para el cuidado de la salud mental",
     team: "ZenMind Team",
-    onePagerUrl: "/one-pagers/zenmind.pdf",
+    onePagerUrl: "/one-pagers/ZenMind.pdf",
     mvpUrl: "https://zenmind-demo.vercel.app",
     imageUrl: "https://placehold.co/600x400/8b5cf6/white?text=ZenMind",
     tags: ["Salud Mental", "Bienestar", "App"]
