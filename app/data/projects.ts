@@ -86,7 +86,7 @@ export const projects: Project[] = [
     title: "MiPlata",
     description: "Aplicación de gestión financiera personal",
     team: "MiPlata Team",
-    onePagerUrl: "/one-pagers/miplata.pdf",
+    onePagerUrl: "/one-pagers/MiPlata.pdf",
     mvpUrl: "https://miplata-demo.vercel.app",
     imageUrl: "https://placehold.co/600x400/6366f1/white?text=MiPlata",
     tags: ["Finanzas", "Gestión", "App"]
@@ -96,8 +96,8 @@ export const projects: Project[] = [
     title: "MetaTrust",
     description: "Plataforma de detección de imágenes generadas por IA",
     team: "Metatrust Team",
-    onePagerUrl: "/one-pagers/metatrust.pdf",
-    mvpUrl: "https://metatrust-demo.vercel.app",
+    onePagerUrl: "/one-pagers/MetaTrust.pdf",
+    mvpUrl: "https://github.com/VegaCaroMiguel/PMC.git",
     imageUrl: "https://placehold.co/600x400/10b981/white?text=MetaTrust",
     tags: ["Verificación", "IA", "Metadatos"]
   }
