@@ -35,8 +35,8 @@ export const projects: Project[] = [
     title: "Vitalia",
     description: "App de bienestar para adultos mayores",
     team: "Vitalia Team",
-    onePagerUrl: "/one-pagers/vitalia.pdf",
-    mvpUrl: "https://vitalia-demo.vercel.app",
+    onePagerUrl: "/one-pagers/Vitalia.pdf",
+    mvpUrl: "https://saint-wick-74223908.figma.site/",
     imageUrl: "https://placehold.co/600x400/f59e0b/white?text=Vitalia",
     tags: ["Salud", "Bienestar", "Adultos Mayores"]
   },
@@ -72,10 +72,10 @@ export const projects: Project[] = [
   },
   {
     id: 8,
-    title: "Capta",
+    title: "Pacta",
     description: "Aplicación CRM de bolsillo para inmobiliarias",
-    team: "Capta Team",
-    onePagerUrl: "/one-pagers/Capta.pdf",
+    team: "Pacta Team",
+    onePagerUrl: "/one-pagers/Pacta.pdf",
     mvpUrl: "https://foodshare-demo.vercel.app",
     imageUrl: "https://placehold.co/600x400/f97316/white?text=FoodShare",
     tags: ["CRM", "Inmobiliaria", "App"]
