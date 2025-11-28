@@ -47,7 +47,7 @@ export default function ProjectCard({ project }: ProjectCardProps) {
             href={project.onePagerUrl}
             target="_blank"
             rel="noopener noreferrer"
-            className="flex-1 bg-gradient-to-r from-yellow-500 to-yellow-600 text-white text-center py-2 px-4 rounded-lg hover:from-yellow-600 hover:to-yellow-700 transition-all duration-200 font-medium"
+            className="flex-1 bg-gradient-to-r from-yellow-500 to-yellow-600 text-white text-center py-1.5 px-3 rounded-lg hover:from-yellow-600 hover:to-yellow-700 transition-all duration-200 text-sm whitespace-nowrap"
           >
             One-Pager
           </a>
@@ -55,10 +55,20 @@ export default function ProjectCard({ project }: ProjectCardProps) {
             href={project.mvpUrl}
             target="_blank"
             rel="noopener noreferrer"
-            className="flex-1 bg-gradient-to-r from-red-500 to-red-600 text-white text-center py-2 px-4 rounded-lg hover:from-red-600 hover:to-red-700 transition-all duration-200 font-medium"
+            className="flex-1 bg-gradient-to-r from-red-500 to-red-600 text-white text-center py-1.5 px-3 rounded-lg hover:from-red-600 hover:to-red-700 transition-all duration-200 text-sm whitespace-nowrap"
           >
-            Ver MVP
+            MVP
           </a>
+          {project.youtubeUrl && (
+            <a
+              href={project.youtubeUrl}
+              target="_blank"
+              rel="noopener noreferrer"
+              className="flex-1 bg-gradient-to-r from-red-400 to-yellow-400 text-white text-center py-1.5 px-3 rounded-lg hover:opacity-95 transition-all duration-200 text-sm whitespace-nowrap"
+            >
+              Video
+            </a>
+          )}
         </div>
       </div>
     </div>
