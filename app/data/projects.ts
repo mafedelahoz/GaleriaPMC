@@ -83,9 +83,9 @@ export const projects: Project[] = [
     description: "Aplicación CRM de bolsillo para inmobiliarias",
     team: "Pacta Team",
     onePagerUrl: "/one-pagers/Pacta.pdf",
-    mvpUrl: "https://foodshare-demo.vercel.app",
+    mvpUrl: "https://github.com/Rodri45/PMCPROYECTO.git",
   imageUrl: "https://placehold.co/600x400/f97316/white?text=FoodShare",
-  youtubeUrl: "https://www.youtube.com/watch?v=2Bl4qXWyrH4",
+  youtubeUrl: "https://youtube.com/shorts/WZ_CaKtOWRU?si=rQvjE1ytuwHi4N8M",
     tags: ["CRM", "Inmobiliaria", "App"]
   }
   ,
